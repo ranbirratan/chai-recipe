@@ -2,16 +2,12 @@
 
 A simple family recipe for traditional ginger–cardamom chai.
 
----
-
 ## Equipment
 
 - Mortar and Pestle  
 - Small Pan  
 - Tea Strainer  
 - Tea Cup (for serving)
-
----
 
 ## Ingredients
 
@@ -23,8 +19,6 @@ A simple family recipe for traditional ginger–cardamom chai.
 | Fresh Ginger | 1 inch piece |
 | Black Tea Leaves | 1 teaspoon |
 | Sugar | 1 teaspoon |
-
----
 
 ## Instructions
 
