@@ -1,15 +1,15 @@
 # Chai Recipe
 
-A simple traditional chai made with fresh ginger and cardamom for a rich aroma and balanced flavor.
+A simple family recipe for traditional ginger–cardamom chai.
 
 ---
 
 ## Equipment
 
-- Mortar and pestle
-- Small saucepan or pan
-- Tea strainer
-- Cup for serving
+- Mortar and Pestle  
+- Small Pan  
+- Tea Strainer  
+- Tea Cup (for serving)
 
 ---
 
@@ -18,63 +18,50 @@ A simple traditional chai made with fresh ginger and cardamom for a rich aroma a
 | Ingredient | Quantity |
 |---|---|
 | Water | 200 ml |
-| Whole milk | 200 ml |
-| Cardamom pods | 3–5 |
-| Fresh ginger | 1 inch piece |
-| Black tea leaves | 1 teaspoon |
+| Whole Milk | 200 ml |
+| Cardamom Pods | 3–5 |
+| Fresh Ginger | 1 inch piece |
+| Black Tea Leaves | 1 teaspoon |
 | Sugar | 1 teaspoon |
 
 ---
 
 ## Instructions
 
-1. **Crush the spices**
+### 1. Heat the water and add spices
 
-   Using a mortar and pestle, crush **3–5 cardamom pods**.
+Add **200 ml water** to a small pan and place it on **high heat**.
 
-2. **Heat the water**
+Using a mortar and pestle:
 
-   Add **200 ml water** to a saucepan and place it on **high heat**.
+- Crush **3–5 cardamom pods**
+- Add the crushed cardamom to the water
+- Crush a **1 inch piece of fresh ginger**
+- Add the crushed ginger to the water
 
-3. **Add cardamom**
+---
 
-   Add the crushed cardamom pods to the water.
+### 2. Steep the tea
 
-4. **Crush ginger**
+When the water begins to **simmer**, add **1 teaspoon of black tea leaves** and allow it to simmer for **15 seconds**.
 
-   Using the mortar and pestle, crush a **1 inch piece of fresh ginger**.
+Remove the pan from heat and **cover with a lid**.
 
-5. **Add ginger**
+Allow the tea to **steep for 3–4 minutes**.
 
-   Add the crushed ginger to the water.
+---
 
-6. **Add tea leaves**
+### 3. Add milk and finish the chai
 
-   When the water begins to **simmer**, add **1 teaspoon of tea leaves** and simmer for **15 seconds**.
+Remove the lid and add **200 ml milk** (whole milk is recommended).
 
-7. **Steep the tea**
+Place the pan back on **high heat** and allow the milk to **rise once**, then remove the pan from heat.
 
-   Remove the pan from heat and **cover with a lid**.  
-   Let the tea steep for **3–4 minutes**.
+Add **1 teaspoon of sugar**.
 
-8. **Add milk**
+> Sugar is added after heating to prevent the boiling point of the chai from rising.
 
-   Remove the lid and add **200 ml milk** (whole milk is recommended).  
-   Place the pan back on **high heat**.
-
-9. **Let the milk rise**
-
-   Allow the milk to **rise once**, then remove the pan from heat.
-
-10. **Add sugar**
-
-    Add **1 teaspoon of sugar**.
-
-    *Sugar is added later to prevent the boiling point of the chai from increasing.*
-
-11. **Strain and serve**
-
-    Strain the chai into a cup.
+Strain the chai into a cup.
 
 ---
 
