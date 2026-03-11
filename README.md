@@ -39,8 +39,6 @@ Using a mortar and pestle:
 - Crush a **1 inch piece of fresh ginger**
 - Add the crushed ginger to the water
 
----
-
 ### 2. Steep the tea
 
 When the water begins to **simmer**, add **1 teaspoon of black tea leaves** and allow it to simmer for **15 seconds**.
@@ -48,8 +46,6 @@ When the water begins to **simmer**, add **1 teaspoon of black tea leaves** and 
 Remove the pan from heat and **cover with a lid**.
 
 Allow the tea to **steep for 3–4 minutes**.
-
----
 
 ### 3. Add milk and finish the chai
 
