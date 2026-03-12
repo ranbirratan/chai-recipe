@@ -16,7 +16,7 @@ A simple family recipe for traditional ginger–cardamom chai.
 | Water | 200 ml |
 | Whole Milk | 200 ml |
 | Cardamom Pods | 3–5 |
-| Fresh Ginger | 1/2 inch piece |
+| Fresh Ginger | 3/4 inch piece |
 | Black Tea Leaves | 1 teaspoon |
 | Sugar | 1 teaspoon |
 
@@ -30,7 +30,7 @@ Using a mortar and pestle:
 
 - Crush **3–5 cardamom pods**
 - Add the crushed cardamom to the water
-- Crush a **1/2 inch piece of fresh ginger**
+- Crush a **3/4 inch piece of fresh ginger**
 - Add the crushed ginger to the water
 
 ### 2. Steep the tea
