@@ -37,17 +37,15 @@ Using a mortar and pestle:
 
 When the water begins to **simmer**, add **1 teaspoon of black tea leaves** and allow it to simmer for **15 seconds**.
 
-Remove the pan from heat and **cover with a lid**.
-
-Allow the tea to **steep for 3–4 minutes**.
+Remove the pan from heat and **cover with a lid**. Allow the tea to **steep for 3–4 minutes**.
 
 > This step allows full infusion of flavours.
 
 ### 3. Add milk and finish the chai
 
-Remove the lid and add **200 ml milk** (whole milk is recommended).
+Place the pan back on **high heat** and add **200 ml milk** (whole milk is recommended). 
 
-Place the pan back on **high heat** and allow the milk to **rise once**, then remove the pan from heat.
+Allow the milk to **rise once**, then remove the pan from heat.
 
 Add **1 teaspoon of sugar**.
 
